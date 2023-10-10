@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Grace Li.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Tiramisu.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: PC games, sewing, sleeping, eating.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Don't have one.
 
